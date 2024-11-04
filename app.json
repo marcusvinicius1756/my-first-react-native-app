@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "my-first-react-native-app",
-    "slug": "my-first-react-native-app",
+    "name": "my-app-sign-signup",
+    "slug": "my-app-sign-signup",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
