@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "my-app-sign-signup",
-    "slug": "my-app-sign-signup",
+    "name": "signin-signup-project",
+    "slug": "signin-signup-project",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
